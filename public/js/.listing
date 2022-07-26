@@ -1,0 +1,13 @@
+drwxr-xr-x    3 ecochau1   ecochau1         4096 Jun 22 08:42 .
+drwxr-x---   14 ecochau1   99               4096 Jun 23 02:30 ..
+-rw-r--r--    1 ecochau1   ecochau1      1281823 Jun 22 08:09 app.js
+-rw-r--r--    1 ecochau1   ecochau1        12786 Jun 22 08:09 imagesloaded.pkgd.js
+-rw-r--r--    1 ecochau1   ecochau1         5594 Jun 22 08:09 imagesloaded.pkgd.min.js
+-rw-r--r--    1 ecochau1   ecochau1        83797 Jun 22 08:09 isotope-docs.min.js
+-rw-r--r--    1 ecochau1   ecochau1         5339 Jun 22 08:09 jquery.countdown.min.js
+-rw-r--r--    1 ecochau1   ecochau1        48086 Jun 22 08:09 lightslider.js
+-rw-r--r--    1 ecochau1   ecochau1        19190 Jun 22 08:09 main.js
+-rw-r--r--    1 ecochau1   ecochau1        25607 Jun 22 08:09 main2.js
+-rw-r--r--    1 ecochau1   ecochau1        24167 Jun 22 08:09 masonry.pkgd.min.js
+drwxr-xr-x    3 ecochau1   ecochau1         4096 Jun 22 09:10 revolution
+-rw-r--r--    1 ecochau1   ecochau1         3428 Jun 22 08:09 theme-map.js
