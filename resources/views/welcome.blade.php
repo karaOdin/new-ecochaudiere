@@ -120,7 +120,7 @@
                             <ul>
                                 <li>
                                     <i class="fa fa-phone" aria-hidden="true"></i>
-                                    <span>+213 (0) 35365196</span>
+                                    <span>+213 (0) 553121850</span>
                                 </li>
                                 <li>
                                     <i class="fa fa-envelope" aria-hidden="true"></i>
@@ -147,7 +147,7 @@
                             <ul>
                                 <li>
                                     <i class="fa fa-phone" aria-hidden="true"></i>
-                                    <span>+213 (0) 35365196</span>
+                                    <span>+213 (0) 553121850</span>
                                 </li>
                                 <li>
                                     <i class="fa fa-envelope" aria-hidden="true"></i>
@@ -1046,11 +1046,11 @@
                             <ul>
                                 <li>
                                     <i class="fa fa-phone" aria-hidden="true"></i>
-                                    <span>+213(0)35365196</span>
+                                    <span>+213(0)553121850</span>
                                 </li>
                                 <li>
                                         <i class="fa fa-fax" aria-hidden="true"></i>
-                                    <span>+213(0)35365196</span>
+                                    <span>+213(0)553121850</span>
                                 </li>
                                 <li>
                                     <i class="fa fa-envelope" aria-hidden="true"></i>
@@ -1092,7 +1092,7 @@
             <div class="container">
                 <div class="footer-bottom-content display-flex">
                     <div class="copyright">
-                            Copyright © 2019 Ecochaudiere - Thème par <span>DevZone</span>
+                            Copyright © 2022 Ecochaudiere - Thème par <span><a href="http://devcloud.com.dz/" target="_blank">DevCloud</a></span>
                     </div>
                     <div class="footer-bottom-menu">
                         <ul>

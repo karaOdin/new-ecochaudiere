@@ -75,7 +75,7 @@
                                     <div class="contact-info-content">
                                         <div class="title title-bold ">Appelez nous</div>
                                         <div class="desc">
-                                             +213 (0) 35365196
+                                             +213 (0) 553121850
                                         </div>
                                     </div>
                                 </li>
